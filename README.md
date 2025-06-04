@@ -38,9 +38,9 @@ Write your own steps
 
 ## PROGRAM
 
-### Name:
+### Name:Rizwan T
 
-### Register Number:
+### Register Number:212222040134
 
 ```python
 class BiLSTMTagger(nn.Module):
